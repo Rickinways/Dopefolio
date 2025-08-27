@@ -323,7 +323,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background:  url("../../assets/img/hero-bg.jpg") no-repeat center center / cover;;
+  background:  url("../../assets/img/hero-bg.jpg") no-repeat center center / cover;
   background-size: cover;
   background-position: center; }
   .contact__form-container {
