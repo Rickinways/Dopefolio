@@ -182,8 +182,6 @@ textarea {
 
 .d-none {
   display: none; }
-
-.home-hero {
  .home-hero {
   color: #fff;
   background: url("../../assets/png/hero-bc.png") no-repeat center center / cover !important;
